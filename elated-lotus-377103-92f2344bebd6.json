@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "elated-lotus-377103",
+  "private_key_id": "92f2344bebd6ac788f40d4b7538291764003f6e4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCLfWC5rQxQMQj\nMZw01kgK7wBFssCtNa8PWv1XQkcuVX16ecTysiMTf02hmmYbusVP27Mhlhu51mkz\nhC8XtzLqrvfTRxMwSPeasO/S32H+QuLxf4pJpldvZHKNMn4YqzhSfMsLwf5shPXL\nOcRrCM2X2ZqoCWjX/FrIEkhhUbkpHRzK7Jejx6jO1z9MdKEv9pM+lPHLTkK6L9Og\nm8jWgMHLpUaBH8LvVSW1RnXFEIjrTc0/LgZ9pVmeoSd2JOHzVGD1gPZkBY4MJ+bP\nbolOf56TWPHL83jgQtL5OL+5LK1twfWQ8BM+LmefF80Ef/Bwb4ipPa1/3MLWeQjn\ndyX9AnBfAgMBAAECggEAR3NH2rHvbgwp39VaaCrM+ZD2Ja9frJyLXPgbLmeJ76ev\nc0ipSrB3ra3zL9qzZdK01ey+nkYwz5Hwxe8GsRBNIQPe1xRZIDRJP9eJd6uQ0FFm\nVnyasv0NQUTRzdjdg1BFejzHLf1lFCNcmjoYZ1Ym6JA+k0RbGtaVxPbNQVoj6tdR\n8wOAUH18n8YLLzk+kemjGXuc2ZdZgwxchd4bH7kv7Oq3B3Kp6txhJz1it/Z5xeXm\nPo3zXsX/y5qGf0Oeig3LHINS+wYNzEm5GyjK3KHZww+JYWpDyXiCxbG2YTxW7Hv8\nKWd3EbJF8vW3VsoKvGoJj43j68xgJSP7/0+cE5TEIQKBgQDxEEABRnS5F1GLl6yV\nABp8SiZyxYIchEJRS3Hch/9J9BvvyCT2bggKGERvJ7aWko1mRvFl3z6bcftxQr9Y\nkQxs3uQGYWvJHsoZKQHOoS1lY2Y7HkfrqYSA4Ap3B2gsqMTL+pLPwZ08GBz3Xmdi\niyl1Thh7qXRZxV+amEVhx7znLwKBgQDONgkcdqJXY1T3HRks/PRrw15TJTfVt6ow\nMh/8nUWLsT/Fl54TmqjBADpis/i4KFNlzsex98hOgBr2T9MSk0pqIf0RqJbEUYgU\n9SnGb1E+F72sIHZoIrrATzXHJn3Eq4XH6vnnw629rCjvkTXpeSd7LBoV47IYZFCx\n/hgHlaS90QKBgQDQxKb5s7/gkB5SC1AuVkGZxEnZ+cz9z1jzuKfqOmlP7bXICohg\nVthljbCupzEM4+zLV8M124oH60W8R/cYx72AB+Ro1jQXoK+b7JShE5sSBGyD5Gya\n3ltflSfa/7Irgxm0IdTFUkNOyP9FCB/3CtgjvDed2RpnqHRsmVT1IpsphwKBgE6S\nIjiZL1QSwg4CJVSR8WOaJjeSB8tD1vHUN4HePuByIfVcxtt7Y29eceCn6E3q95Pk\nDQzPd6AJibxuP+NlAcacurtevEuDMVGi9E7qnU8GZrvOBq+5A+VAiSIflW45WJkK\n/DuFwI5zqYlWj+8svZFeBXZvsq0+k8yuH2PMbd/xAoGBAM3ZPIWmZjoZsn2mdHef\nJdYz0WtMmZqAeSOJ07HYWu9TYaxzOUgzDwuvWnAGsaHlUrsRS2ZKUfBLLSzV1gIj\nV1DA2qCA3re4gEpeK2KwfktCHvESmq5n+5xMxGOkFO1vndpBGjL8JnDyztzGjcoM\n7qvQYp28hxQW1f+bIEq9+1bc\n-----END PRIVATE KEY-----\n",
+  "client_email": "gke-deployer@elated-lotus-377103.iam.gserviceaccount.com",
+  "client_id": "101974584754310205666",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gke-deployer%40elated-lotus-377103.iam.gserviceaccount.com"
+}
